@@ -1,0 +1,50 @@
+body {
+  width: 80%;  
+  margin: 0 auto;
+  background:url("https://cdn.gomix.com/dc2c0283-d9e7-4d6a-8305-7eb1d965d126%2Fth.jpg");
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-position: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:90%;margin:auto;min-width:600px;max-width:2000px
+}
+
+form {
+  margin-bottom: 25px;
+  padding: 15px;
+  background-color: red;
+  border-radius: 3px;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 100%;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+button {
+  font-size: 16px;
+  border-radius: 3px;
+  background-color: lightgrey;
+  border: 1px solid grey;
+  box-shadow: 2px 2px teal;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: yellow;
+}
+li {
+  margin-bottom: 5px;
+}
+
+button:active {
+  box-shadow: none;
+}
+
+

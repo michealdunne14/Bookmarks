@@ -1,0 +1,17 @@
+<table class="ui table">
+  <tbody>
+    {{#each folder.files}}
+      <tr>
+        <td>
+          {{title}}
+        </td>
+        <td>
+          <a href="{{link}}">{{site}}</a>
+        </td>
+        <td>
+          <a href="/folder/{{../folder.id}}/deletefile/{{id}}" class="ui tiny red button">Delete file</a>
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
