@@ -1,0 +1,23 @@
+{{> menu id="stats"}}
+
+<section class="ui center aligned middle aligned segment">
+  <div class="ui raised segment">
+      <div class="value">
+          <h5>totalfiles</h5>
+          <i class="bookmark icon"></i> {{liststat}}
+      </div>
+      <div class="value">
+          <h5>totalfolders</h5><i class="bookmark icon"></i> {{totalCollections}}
+      </div>
+      <div class="value">
+          <h5>UserFolders</h5><i class="bookmark icon"></i> {{userFolders}}
+      </div>
+      <div class="value">
+          <h5>Largest User folder</h5><i class="bookmark icon"></i> {{largestFolders}}
+      </div>
+      <div class="value">
+          <h5>Average</h5><i class="bookmark icon"></i> {{average}}
+      </div>
+  </div>
+    <script src="/client.js"></script>
+</section>

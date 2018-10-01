@@ -1,0 +1,34 @@
+{
+  "folderCollection": [
+    {
+      "id": "78b6745f-9278-479f-8764-1b927c0e314c",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "hello",
+      "files": []
+    },
+    {
+      "id": "0ea8358b-3a13-4174-b80a-69d92632e44e",
+      "userid": "4c306d4d-995f-4730-b449-ca481f4f9fd5",
+      "title": "herer",
+      "files": [],
+      "folder": [],
+      "pictures": []
+    },
+    {
+      "id": "28330bea-dc20-4277-b0cf-9b8434bc2238",
+      "userid": "4c306d4d-995f-4730-b449-ca481f4f9fd5",
+      "title": "Here",
+      "files": [],
+      "folder": [],
+      "pictures": []
+    },
+    {
+      "id": "c624950b-c05d-41b5-842e-ff3a10f65066",
+      "userid": "4c306d4d-995f-4730-b449-ca481f4f9fd5",
+      "title": "jdfg",
+      "files": [],
+      "folder": [],
+      "pictures": []
+    }
+  ]
+}
